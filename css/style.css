@@ -96,6 +96,9 @@ ul{
     color: white;
 
 }
+.calc button:hover{
+    opacity:0.8;
+}
 .calc .num{
     background-color: var(--num-color);
 }
